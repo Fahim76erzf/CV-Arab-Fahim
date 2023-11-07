@@ -1,0 +1,24 @@
+body {
+  background-image: url(htps://s2.dmcdn.net/v/TIA_11XN5Y4kNpo-5/x1080);
+  background-size: 100%;
+  width: auto;
+}
+.gauche {
+  width: 100px;
+  height: 100px;
+  background-color: slategray;
+}
+.fahim {
+  background-color: brown;
+  width: 125px;
+}
+
+.fahim2 {
+  background-color: cornflowerblue;
+  width: 125px;
+}
+
+.fahim3 {
+  background-color: aqua;
+  width: 125px;
+}
