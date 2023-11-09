@@ -1,0 +1,66 @@
+body {
+  background-image: url(https://s2.dmcdn.net/v/TIA_11XN5Y4kNpo-5/x1080);
+  background-size: 100%;
+  width: auto;
+}
+body {
+  background: rgba(0, 0, 0, 0.5);
+}
+.gauche {
+  width: 120px;
+  height: 100px;
+  background-color: slategray;
+}
+.fahim {
+  background-color: brown;
+  width: 150px;
+}
+
+.fahim2 {
+  background-color: cornflowerblue;
+  width: 13%;
+}
+
+.fahim3 {
+  background-color: aqua;
+  width: 125px;
+}
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+nav {
+  background-color: #333;
+}
+
+nav ul {
+  list-style: none;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+}
+
+nav a {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  padding: 10px 20px;
+}
+ul,
+p,
+a {
+  font-family: Rowdies;
+}
+body {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+
+
