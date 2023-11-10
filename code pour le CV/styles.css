@@ -63,8 +63,21 @@ body {
 }
 
 ul{
-  margin-left: 5rem;
-  display: flex;
-}
+  margin-left: 4rem ;
 
+}
+body, html {
+
+
+  height: 100%;
+      margin: 0;
+  }
+
+  .centered-page {
+      display: flex;
+      height: 100%;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+  }
 
