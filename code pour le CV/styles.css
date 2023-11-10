@@ -62,5 +62,9 @@ body {
   font-family: Arial, sans-serif;
 }
 
+ul{
+  margin-left: 5rem;
+  display: flex;
+}
 
 
